@@ -6,7 +6,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 public class DataEHoraRogerio {
-    
+
         public static void main(String[] args) {
             // Criando datas e horas
             LocalDate hoje = LocalDate.now(); // Data atual
