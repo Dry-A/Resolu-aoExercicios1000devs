@@ -32,7 +32,7 @@ public class DataEHora {
                 // Fazer o parsing da string para LocalDateTime
                 LocalDateTime dataHora = LocalDateTime.parse(dataHoraString2, formatter);
                 System.out.println("Data e Hora: " + dataHora);
-                
+
             } catch (DateTimeParseException e) {
                 System.out.println("Erro ao fazer o parsing da data e hora: " + e.getMessage());
             }
