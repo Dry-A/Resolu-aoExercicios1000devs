@@ -14,8 +14,15 @@ public class Aluno {
         return nome;
     }
 
+    //regra para nome e sobrenome
     public void setNome(String nome) {
-        this.nome = nome;
+        if(nome.contains(" ")){
+
+            return;
+        }else{
+            System.out.println("nome nao aceito");
+        }
+
     }
 
     public int getIdade() {
