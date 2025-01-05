@@ -1,6 +1,6 @@
-package ClassesEObjetos.frutas.collections;
+package OrientacaoAObjeto.frutas.collections;
 
-import ClassesEObjetos.frutas.Fruta;
+import OrientacaoAObjeto.frutas.Fruta;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,6 +1,6 @@
-package ClassesEObjetos.contribuinte.collections;
+package OrientacaoAObjeto.contribuinte.collections;
 
-import ClassesEObjetos.contribuinte.Contribuinte;
+import OrientacaoAObjeto.contribuinte.Contribuinte;
 
 import java.util.HashMap;
 import java.util.Map;

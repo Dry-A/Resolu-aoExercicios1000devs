@@ -1,4 +1,4 @@
-package ClassesEObjetos.contribuinte.contribuinteSemClasse;
+package OrientacaoAObjeto.contribuinte.contribuinteSemClasse;
 
 import java.util.Scanner;
 
