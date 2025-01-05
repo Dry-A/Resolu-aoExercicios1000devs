@@ -18,9 +18,9 @@ public class Aluno {
     public void setNome(String nome) {
         if(nome.contains(" ")){
 
-            return;
+            this.nome = nome;
         }else{
-            System.out.println("nome nao aceito");
+            System.out.println("Nome nao aceito. Digite um nome e sobrenome");
         }
 
     }
@@ -30,7 +30,12 @@ public class Aluno {
     }
 
     public void setIdade(int idade) {
-        this.idade = idade;
+        if(idade >=0){
+            this.idade = idade;
+        }else{
+            System.out.println("idade inválida");
+        }
+
     }
 
     public String getEmail() {
