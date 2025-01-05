@@ -1,6 +1,6 @@
-package OrientacaoAObjeto.contribuinte.contribuinteArray;
+package orientacaoAObjeto.contribuinte.contribuinteArray;
 
-import OrientacaoAObjeto.contribuinte.Contribuinte;
+import orientacaoAObjeto.contribuinte.Contribuinte;
 
 import java.util.Scanner;
 

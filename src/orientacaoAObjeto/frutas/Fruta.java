@@ -1,4 +1,4 @@
-package OrientacaoAObjeto.frutas;
+package orientacaoAObjeto.frutas;
 
 public class Fruta {
 

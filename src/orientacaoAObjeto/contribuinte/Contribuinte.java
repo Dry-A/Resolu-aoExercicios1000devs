@@ -1,4 +1,4 @@
-package OrientacaoAObjeto.contribuinte;
+package orientacaoAObjeto.contribuinte;
 
 public class Contribuinte {
 
